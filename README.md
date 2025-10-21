@@ -4,7 +4,7 @@ A simple and interactive Text-To-Speech web application that converts typed text
 Great for learning how to use the Web Speech API and practice DOM manipulation.
 
 ### 🚀 Live Demo
-https://devanand-official.github.io/Text-To-Speech/
+https://devanand-official.github.io/text-to-speech/
 
 ### 🔧 Features:
 - Type any text and convert it to speech
